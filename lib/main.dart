@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:eos_chatting/screens/main_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,25 +15,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: '민지우 앱입니다'),
+      home: LoginSignUpScreen()
     );
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({super.key, required this.title});
-
-  final String title;
-
-  @override
-  State<MyHomePage> createState() => _MyHomePageState();
-}
-
-class _MyHomePageState extends State<MyHomePage> {
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-    );
-  }
-}
