@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "464843690153",
+    "project_id": "eos-chatting-e371e",
+    "storage_bucket": "eos-chatting-e371e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464843690153:android:d17386f84864f087c099b8",
+        "android_client_info": {
+          "package_name": "com.eos.eos_chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464843690153-4evhjo9uh7ep9sr4okc17p932usii48l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55FBRuoq2cQgCnnv1rgA1NdR1S809d10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464843690153-4evhjo9uh7ep9sr4okc17p932usii48l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "464843690153-rjn2pbdetdb0qsmq9jmaadqgupl0kq9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eos.eosChatting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

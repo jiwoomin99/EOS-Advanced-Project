@@ -8,4 +8,5 @@ class Palette {
   static const Color facebookColor = Color(0xFF3B5999);
   static const Color googleColor = Color(0xFF4285F4);
   static const Color backgroundColor = Color(0xFFECF3F9);
+  static const Color appbarColor = Color(0xFF4CAF50);
 }
